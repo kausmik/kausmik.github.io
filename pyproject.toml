@@ -1,0 +1,45 @@
+[project]
+name = "kausmik-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "sphinx>=9.1.0",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.13"
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle
+    "F",    # Pyflakes
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "SIM",  # flake8-simplify
+    "I",    # isort
+    "D",    # pydocstyle
+    "C401", # flake8-comprehensions: unnecessary-generator-set
+    "C402", # flake8-comprehensions: unnecessary-generator-dict
+    "C403", # flake8-comprehensions: unnecessary-list-comprehension-set
+    "C404", # flake8-comprehensions: unnecessary-list-comprehension-dict
+    "C405", # flake8-comprehensions: unnecessary-literal-set
+    "W605", # pycodestyle: invalid-escape-sequence
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"
+
+[tool.pytest.ini_options]
+minversion = "7"
+testpaths = ["tests"]
+log_cli_level = "INFO"
+xfail_strict = true
+addopts = ["-ra", "--strict-config", "--strict-markers"]
+filterwarnings = ["error", "ignore::DeprecationWarning", "ignore::UserWarning"]
