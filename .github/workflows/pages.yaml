@@ -3,7 +3,8 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
+      - main
+      - ci-fix-publish-dir
   pull_request:
   workflow_dispatch:
 
