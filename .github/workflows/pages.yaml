@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - main
-      - ci-fix-publish-dir
-  # pull_request:
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -34,7 +33,7 @@ jobs:
         # If changing the branch from main,
         # also change the `main` in `refs/heads/main`
         # below accordingly.
-        if: github.ref == 'refs/heads/ci-fix-publish-dir'
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs/build/html
