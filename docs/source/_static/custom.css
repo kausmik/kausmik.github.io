@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body,
+div.body p,
+div.sphinxsidebar h3,
+div.sphinxsidebar h4,
+div.sphinxsidebar input,
+div.admonition p.admonition-title {
+    font-family: 'EB Garamond', 'Georgia', serif;
+    text-align: justify;
+}
+
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    font-family: 'EB Garamond', 'Georgia', serif;
+}
