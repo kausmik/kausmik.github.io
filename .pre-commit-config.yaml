@@ -19,7 +19,7 @@ repos:
   # https://gatlenculp.github.io/gatlens-opinionated-template/precommit/.
 
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.30.0
+    rev: v8.29.1
     hooks:
       - id: gitleaks
         name: "Security: detect hardcoded secrets"
