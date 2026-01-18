@@ -8,6 +8,11 @@ dependencies = [
     "sphinx>=9.1.0",
 ]
 
+[dependency-groups]
+dev = [
+    "prek>=0.2.27",
+]
+
 [tool.pyright]
 venvPath = "."
 venv = ".venv"
