@@ -1,5 +1,5 @@
 This is but a Projection \(2026-01-20\)
-===================================================
+=======================================
 
 Selenia yanked wires out of the contraption at an alarming rate,
 not helping Clemont's nervousness one bit.
