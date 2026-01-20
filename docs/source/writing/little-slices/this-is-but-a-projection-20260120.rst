@@ -17,8 +17,7 @@ altered state.
 scratching at their neck as a reflex reaction to the anxiety biting at them.
 They had seen Selenia like this once,
 when they'd both thought Selenia was losing their leg,
-but that was a long time ago—
-before either of them had received their implants.
+but that was a long time ago—before either of them had received their implants.
 
 "Just—just checking something, Clem."
 Selenia turned to face them, gray eyes meeting Clemont's red ones.
@@ -44,9 +43,8 @@ but was interrupted.
 Trust me."
 
 The prisoner was not convinced,
-but the desperation in Selenia's eyes—
-something they'd rarely been witness to—
-pushed them to do it.
+but the desperation in Selenia's eyes—something they'd rarely been witness
+to—pushed them to do it.
 Fortifying themselves, they elbowed a tile right in the middle,
 hissing at the pain.
 Still, they grasped for a shard, and,
@@ -58,8 +56,8 @@ It flew right through their friend's shoulder.
 Clemont blinked.
 "Did I miss?"
 
-"No," responded Selenia, stressed renewed.
-"I'm not with you."
+"No. No," responded Selenia, stressed anew.
+"I'm not *with* you."
 They made eye contact with Clemont once more.
 "I'm just a projection."
 
