@@ -17,5 +17,6 @@ are :doc:`here <./guidelines>`!
    :maxdepth: 1
 
    guidelines
+   this-is-but-a-projection-20260120
 
 :doc:`Back to Writing <../index>`
