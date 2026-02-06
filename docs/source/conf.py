@@ -25,6 +25,7 @@ exclude_patterns = []
 
 html_theme = "alabaster"
 html_static_path = ["_static"]
+html_extra_path = ["_static/extra"]
 html_theme_options = {
     "nosidebar": True,
 }
