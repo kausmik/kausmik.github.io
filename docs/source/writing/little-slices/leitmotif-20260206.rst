@@ -43,7 +43,7 @@ Perhaps it even has to do with the distinctive lack of a hat.
 
 No.
 Something's definitely off, but it isn't this man.
-It isn't that he will be accused of loitering soon, either.
+It isn't that he will soon be accused of loitering, either.
 Without averting my gaze,
 I put my cigarette out in the ashtray,
 leaving it in and
