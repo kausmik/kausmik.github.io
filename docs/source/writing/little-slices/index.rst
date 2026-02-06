@@ -18,5 +18,6 @@ are :doc:`here <./guidelines>`!
 
    guidelines
    this-is-but-a-projection-20260120
+   leitmotif-20260206
 
 :doc:`Back to Writing <../index>`

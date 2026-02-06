@@ -18,3 +18,7 @@ div.body h5,
 div.body h6 {
     font-family: 'EB Garamond', 'Georgia', serif;
 }
+
+p.admonition-title:after {
+    content: none;
+}
